@@ -3,7 +3,7 @@
 ## 介绍
 这是一款 SQL 日志自动填充与格式化工具，可运行的 jar 已放在项目根目录下
 
-![image-20220831090235034](image/README-img/image-20220831090235034.png)
+[![v4nGGt.png](https://s1.ax1x.com/2022/08/31/v4nGGt.png)](https://imgse.com/i/v4nGGt)
 
 ## 目前功能
 目前支持 Knex.js 系的 SQL 日志自动填充值与格式化SQL
